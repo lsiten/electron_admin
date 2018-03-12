@@ -1,8 +1,17 @@
-# deeplearn
+# 因卓2.0.1
 
-> An electron-vue project
+> 因卓系统迭代
 
-#### Build Setup
+#git使用规范
+
+> 分支：
+>------master 主分支
+>---------|-dev 开发分支
+>------------|-lsc 雷诗城本地开发分支
+>------------|-sxd 苏晓东本地开发分支
+>------------|-lx 卢潇本地开发分支
+
+#### 系统构建
 
 ``` bash
 # install dependencies
@@ -19,7 +28,3 @@ npm run build
 npm run lint
 
 ```
-
----
-
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
