@@ -45,7 +45,7 @@
 </template>
 
 <script>
-import VueCropper from 'vue-cropperjs'
+import VueCropper from '../common/vue-cropper'
 import 'cropperjs/dist/cropper.css'
 export default {
   data: function () {

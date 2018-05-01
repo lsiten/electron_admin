@@ -32,8 +32,7 @@
 </template>
 
 <script>
-import Schart from 'vue-schart'
-console.log(Schart)
+import Schart from '../common/vue-schart'
 export default {
   components: {
     Schart
